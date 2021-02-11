@@ -5,15 +5,37 @@
     <title>your project name</title>
 
     <link href="./public/style.css" rel="stylesheet" />
+    <!-- Load an icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
   <body>
-    <div id="user-interface"></div>
+    <div class="navbar">
+      <a class="couleur" href="about.html"><i class="fa fa-fw fa-home"></i> Home</a>
+      <a href="index.html" class="couleur"><i class="moi"></i> My Projects</a>
+      <a href="contact.html" class="couleur"><i class="fa fa-fw fa-envelope"></i> Contact Me</a>
+      
+    </div>
+     <main id='user-interface'>
+        <div id="user_info">
 
-    <!-- initialize your application -->
-    <script type="module" src="./src/init/index.js"></script>
+        </div>
+        <div id='repo_holder'>
 
-    <!-- load the review buttons for your live deployment  -->
-    <script type="module" src="./lib/review-buttons.js"></script>
+        </div>
+    </main>
+  </div>
+  <div class="footer">
+    <p>Copyright &copy; 2021 Raoul</p>
+  </div>
+
+
+    <!-- load the frontend testing & reviewing dependencies -->
+    <script src='./lib/review-buttons.js' type='module'></script>
+  
+
+    <!-- load your app -->
+    <script type='module' src='./src/init.js'></script>
+
   </body>
 </html>
