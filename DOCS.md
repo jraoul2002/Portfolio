@@ -6,10 +6,10 @@
 
 <!-- BEGIN TOC -->
 
-- [app](#app)
-  - [todos.js](#srcapptodosjs)
+- [classes](#classes)
+  - [list.js](#srcclasseslistjs)
 - [handlers](#handlers)
-  - [add-todo.js](#srchandlersadd-todojs)
+  - [create-list.js](#srchandlerscreate-listjs)
 - [init](#init)
   - [index.js](#srcinitindexjs)
 - [listeners](#listeners)
@@ -21,11 +21,11 @@
 
 ---
 
-# app
+# classes
 
 ---
 
-### [./src/app/todos.js](./src/app/todos.js?study)
+### [./src/classes/list.js](./src/classes/list.js?study)
 
 [TOP](#DOCS)
 
@@ -45,7 +45,7 @@ Handler function define user interactions. They will:
 
 ---
 
-### [./src/handlers/add-todo.js](./src/handlers/add-todo.js?study)
+### [./src/handlers/create-list.js](./src/handlers/create-list.js?study)
 
 [TOP](#DOCS)
 
