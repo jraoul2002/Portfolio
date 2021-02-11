@@ -7,13 +7,18 @@
 <!-- BEGIN TOC -->
 
 - [app](#app)
-  - [todos.js](#srcapptodosjs)
+  - [User.js](#srcappUserjs)
+  - [handler.js](#srcapphandlerjs)
+  - [repo.js](#srcapprepojs)
+- [classes](#classes)
+  - [list.js](#srcclasseslistjs)
 - [handlers](#handlers)
-  - [add-todo.js](#srchandlersadd-todojs)
+  - [create-list.js](#srchandlerscreate-listjs)
 - [init](#init)
   - [index.js](#srcinitindexjs)
 - [listeners](#listeners)
 - [data.js](#srcdatajs)
+- [init.js](#srcinitjs)
 
 <!-- END TOC -->
 
@@ -25,7 +30,27 @@
 
 ---
 
-### [./src/app/todos.js](./src/app/todos.js?study)
+### [./src/app/User.js](./src/app/User.js?study)
+
+---
+
+### [./src/app/handler.js](./src/app/handler.js?study)
+
+---
+
+### [./src/app/repo.js](./src/app/repo.js?study)
+
+[TOP](#DOCS)
+
+---
+
+---
+
+# classes
+
+---
+
+### [./src/classes/list.js](./src/classes/list.js?study)
 
 [TOP](#DOCS)
 
@@ -45,7 +70,7 @@ Handler function define user interactions. They will:
 
 ---
 
-### [./src/handlers/add-todo.js](./src/handlers/add-todo.js?study)
+### [./src/handlers/create-list.js](./src/handlers/create-list.js?study)
 
 [TOP](#DOCS)
 
@@ -78,5 +103,9 @@ You can use the same handler in many different listeners, or add more than one l
 ---
 
 ## [./src/data.js](./src/data.js?study)
+
+---
+
+## [./src/init.js](./src/init.js?study)
 
 <!-- END DOCS -->
