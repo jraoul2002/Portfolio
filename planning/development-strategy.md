@@ -64,7 +64,7 @@ A refactor of the Practical JavaScript Portfolio
  - Create a branch `projects`
  - create the file index.html
  - add the navigation bar
- - fetch the data from Github (using Github APi)
+ -
  - add some styles to the page 
  - merge `projects` to `master` after completion
 
@@ -75,6 +75,14 @@ A refactor of the Practical JavaScript Portfolio
  - create a contact form with four entries
  - add some styles to the form
  - merge `contact` to `master` after completion
+ 
+ 
+ ### task D : using javascript
+ - create a branch `app`
+ - create the file handler.js
+ - create the file users.js 
+        *create a function handler and also here fetching data from Github using Github API
+ -create the file repo.js
 
 ---
 ### Technologies Used
