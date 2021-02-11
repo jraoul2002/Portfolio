@@ -6,17 +6,10 @@ A collection of user stories you can choose from. Stories inside of each priorit
 
 > these are necessary for basic usability
 
-- [ ] A user can create a new empty list with any title
+- [x] A user can see the projects that i worked on
   - _acceptance criteria ..._
-- [ ] A user can remove any list from the manager
-  - _acceptance criteria ..._
-- [ ] A user can add items to each list instance
-  - _acceptance criteria ..._
-- [ ] A user can remove items from each list instance
-  - _acceptance criteria ..._
-- [ ] A user can update items in each list instance
-  - _acceptance criteria ..._
-
+- [x] A user can contact me via a contact form
+  
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
@@ -28,5 +21,5 @@ A collection of user stories you can choose from. Stories inside of each priorit
 
 > would be really cool ... if there's time
 
-- [ ] A user can ...
-  - _acceptance criteria ..._
+- [x] A user can see the live demo of my projects
+  
