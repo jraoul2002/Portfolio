@@ -3,7 +3,7 @@ import { User } from "./User.js"
 
 export async function appHandler() {
 
-    fetch('https://api.github.com/users/jraoul2002')
+    fetch('https://api.github.com/users/jraoul20')
         .then(res => res.json())
         .then(payload => {
 
